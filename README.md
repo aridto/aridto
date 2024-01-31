@@ -1,4 +1,7 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aridto&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" />
+<h1>ようこそ! (yōkoso!)</h1>
 
+I’m a computer science student passionate about coding in TypeScript and building full-stack apps. Stack on VueJS, NestJS, TypeORM, MySQL
 
-I'm a computer science student passionate about coding in TypeScript and building full-stack apps. I create front-end websites and back-end systems with Node.js to turn ideas into well-coded, user-friendly solutions. My goal is to build tools that meaningfully help people by solving real-world problems. I use various languages beyond TypeScript as well to follow my principle of sharing knowledge, caring about users, and connecting ideas to actions.
+- Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+- Join our [Discord Server](https://discord.gg/keRwjRpZkU).
+- Wanna play [Osu!](https://osu.ppy.sh/u/Shiren-) with me?
