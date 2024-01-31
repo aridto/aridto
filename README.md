@@ -4,4 +4,3 @@ I’m a computer science student passionate about coding in TypeScript and build
 
 - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
 - Join our [Discord Server](https://discord.gg/keRwjRpZkU).
-- Wanna play [Osu!](https://osu.ppy.sh/u/Shiren-) with me?
